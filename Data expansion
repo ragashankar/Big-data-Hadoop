@@ -1,0 +1,31 @@
+data is 2.5 exabytes per day
+
+Eg: You tube users, facebook, smartphone apps etc.
+
+Types of data : 
+
+Structured data : Rep in tablular format; sql, db and My Sql
+
+Semi- structured data : XML files
+
+Unstruc - Does not have data model, text files, logs etc..
+
+
+Need for big data:
+
+For the past 2 yrs, there has been over 80% of unstruc data produced
+Struc data is 20% - it has its limitations to process big data
+
+Char of big data:
+Variety - manages complexity of data
+Velocity - Managing data streaming
+Veracity - Manages data accuracy
+Volume - Manage data scaling
+Variablitiy - data constantly changing
+Visualization - Mnages data comprehensibility
+Value - Manages data value
+
+How Big data helps:
+Big data tech helped 12 terabytes of tweets created daily into improved product sentiment analysis
+
+Velocity of data - scrutinized 5 million trade events
