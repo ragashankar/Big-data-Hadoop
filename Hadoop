@@ -1,0 +1,7 @@
+Hadoop - Open source java based framework that supports processing of large sets of data in a distributed environment
+Has hdfs architecture which enables fast data transfer among nodes
+Distributed computation framework - MapReduce
+
+Haddop latest version - 2.7.1 - Jul 2015 release - supports windows platform completely written in java
+
+Vmware - virtual machines
